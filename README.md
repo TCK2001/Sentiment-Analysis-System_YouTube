@@ -26,7 +26,7 @@ datasets → for loading the IMDB movie review dataset used to train the model
 
 ------
 
-How to Start ?
+How to Start ?      
 Step 1 :
 ```
 sentiment_train.py
