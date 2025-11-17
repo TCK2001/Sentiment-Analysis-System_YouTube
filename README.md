@@ -6,7 +6,7 @@ Today, I'd like to build a small project that performs sentiment analysis on You
 
 ------
 
-File Structure
+### File Structure
 ```
 [Folder] yt_sentiment_project
 -main.py
@@ -16,7 +16,7 @@ File Structure
 
 ------
 
-Libraries : 
+### Libraries : 
 ```
 selenium → for web crawling (collecting YouTube comments)
 transformers → for running the DistilBERT sentiment analysis model
@@ -26,7 +26,7 @@ datasets → for loading the IMDB movie review dataset used to train the model
 
 ------
 
-How to Start ?      
+### How to Start ?      
 Step 1 :
 ```
 sentiment_train.py
